@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1713509788 source:c:\users\hp\desktop\projets_cse\project-0\demo\main.c
+	"header.h"
+
+1711387658 source:c:\users\hp\desktop\projets_cse\project-0\demo\about.c
+	"header.h"
+
+1713505794 c:\users\hp\desktop\projets_cse\project-0\demo\header.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+
+1711893404 source:c:\users\hp\desktop\projets_cse\project-0\demo\selectbird.c
+	"header.h"
+
+1711887218 source:c:\users\hp\desktop\projets_cse\project-0\demo\settings.c
+	"header.h"
+
+1713510051 source:c:\users\hp\desktop\projets_cse\project-0\demo\playing.c
+	"header.h"
+
+1711387658 source:c:\users\hp\desktop\demo\about.c
+	"header.h"
+
+1712772319 c:\users\hp\desktop\demo\header.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+
+1712774898 source:c:\users\hp\desktop\demo\main.c
+	"header.h"
+
+1712831879 source:c:\users\hp\desktop\demo\playing.c
+	"header.h"
+
+1711893404 source:c:\users\hp\desktop\demo\selectbird.c
+	"header.h"
+
+1711887218 source:c:\users\hp\desktop\demo\settings.c
+	"header.h"
+
+1711387658 source:c:\users\hp\desktop\project_cse\project-0\demo\about.c
+	"header.h"
+
+1712772319 c:\users\hp\desktop\project_cse\project-0\demo\header.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+
+1712774898 source:c:\users\hp\desktop\project_cse\project-0\demo\main.c
+	"header.h"
+
+1712831879 source:c:\users\hp\desktop\project_cse\project-0\demo\playing.c
+	"header.h"
+
+1711893404 source:c:\users\hp\desktop\project_cse\project-0\demo\selectbird.c
+	"header.h"
+
+1711887218 source:c:\users\hp\desktop\project_cse\project-0\demo\settings.c
+	"header.h"
+
+1711387658 source:c:\users\hp\desktop\projects_cse\project-0\demo\about.c
+	"header.h"
+
+1712772319 c:\users\hp\desktop\projects_cse\project-0\demo\header.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+
+1712831879 source:c:\users\hp\desktop\projects_cse\project-0\demo\playing.c
+	"header.h"
+
+1711893404 source:c:\users\hp\desktop\projects_cse\project-0\demo\selectbird.c
+	"header.h"
+
+1711887218 source:c:\users\hp\desktop\projects_cse\project-0\demo\settings.c
+	"header.h"
+
+1713504695 c:\users\hp\desktop\projets_cse\project-0\demo\structs.h
+
